@@ -9,6 +9,16 @@ This repository provides a complete roadmap to becoming a proficient full-stack 
 - `FullstackRoadmap.txt`: Overview of the entire full stack learning journey.
 - `Frontend.txt`: Roadmap for frontend development with React, styling, and modern tooling.
 - `Backend.txt`: Roadmap for backend development using Node.js, Express.js, MongoDB, and APIs.
+- 
+# Fullstack Development Roadmap
+
+## Backend Roadmap
+
+![Backend Roadmap](./assets/backend-roadmap.png)
+
+## Frontend Roadmap
+
+![Frontend Roadmap](./assets/frontend-roadmap.png)
 
 ## 🧠 Skills Covered
 
