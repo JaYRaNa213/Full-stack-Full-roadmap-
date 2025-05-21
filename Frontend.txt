@@ -1,0 +1,38 @@
+Frontend Development Roadmap
+==================================================
+1. HTML Basics:
+   - Elements, Attributes, Semantic HTML
+
+2. CSS Fundamentals:
+   - Selectors, Box Model, Flexbox, Grid
+
+3. Typography & Styling:
+   - Fonts, Line Height, Spacing
+
+4. JavaScript (ES6+):
+   - DOM Manipulation, Promises, Arrow Functions
+
+5. Responsive Web Design:
+   - Media Queries, Mobile-First Design
+
+6. Frameworks:
+   - React.js: JSX, Components, Hooks
+   - Vue.js / Angular (optional basics)
+
+7. Component Libraries:
+   - Material UI, Chakra UI
+
+8. CSS Preprocessors:
+   - Sass, LESS
+
+9. State Management:
+   - Context API, Redux
+
+10. Tools:
+   - TypeScript, Webpack, Vite, Babel
+
+11. Testing:
+   - Unit & End-to-End Testing
+
+12. Deployment:
+   - Environment Variables, Hosting Platforms

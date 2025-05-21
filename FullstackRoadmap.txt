@@ -1,0 +1,14 @@
+Full Stack Web Development Roadmap
+==================================================
+A comprehensive guide to becoming a proficient full stack web developer with a focus on frontend and backend tools using HTML, CSS, JavaScript, React.js, Node.js, and Express.js.
+
+Sections:
+- Frontend Development
+- Backend Development
+- Deployment
+- Tools & Testing
+- Advanced Concepts
+
+Ideal For:
+- Beginners learning web development
+- Intermediate developers building real-world projects

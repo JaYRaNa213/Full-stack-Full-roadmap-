@@ -1,0 +1,31 @@
+Backend Development Roadmap
+==================================================
+1. Prerequisites:
+   - JavaScript (ES6+), HTML, CSS, Git
+
+2. Node.js Environment:
+   - Setup, Core Modules, NPM, Async Programming
+
+3. Express.js:
+   - Routing, Middleware, Error Handling, Static Files
+
+4. Templating Engines (Optional):
+   - EJS, Pug, Handlebars
+
+5. Databases:
+   - MongoDB, CRUD, Mongoose, Validation
+
+6. Authentication:
+   - JWT, OAuth, User Login Systems
+
+7. API Development:
+   - RESTful APIs, API Documentation
+
+8. Testing & Debugging:
+   - Unit, Integration, Debugging Tools
+
+9. Deployment:
+   - Process Managers, Environment Variables, Hosting
+
+10. Advanced Concepts:
+    - WebSockets, GraphQL, CI/CD, Microservices
